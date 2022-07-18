@@ -1,0 +1,21 @@
+    body {
+        
+
+    }
+
+   
+#user {
+
+    background-image: url("../../assets/image/user.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-origin: content-box;
+}
+
+#lock {
+
+    background-image: url("../../assets/image/icon-password.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-origin: content-box;
+}
